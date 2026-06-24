@@ -1,5 +1,6 @@
 # Customer Churn Prediction in Telecom Using R
-
+📄 Project Report:
+[Customer Churn Prediction in the Telecom Industry.pdf](./Customer%20Churn%20Prediction%20in%20the%20Telecom%20Industry.pdf)
 ## Project Overview
 
 Customer churn is one of the most critical business challenges in the telecom industry. Retaining existing customers is often more cost-effective than acquiring new customers.
